@@ -20,7 +20,7 @@
   <a href="https://alfizilham.my.id">
     <img src="https://img.shields.io/badge/Portfolio-alfizilham.my.id-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/alfiz-ilham093a2">
+  <a href="https://linkedin.com/in/alfizilham">
     <img src="https://img.shields.io/badge/LinkedIn-Alfiz__Ilham-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alfizilham@gmail.com">
