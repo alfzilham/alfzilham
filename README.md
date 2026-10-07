@@ -8,14 +8,14 @@
 
   <img src="./assets/icons/_divider.svg" width="90%" alt="divider" />
 
-  <br /><br />
+<br /><br />
 
   <img src="https://img.shields.io/badge/Fullstack%20Developer-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI--Integrated%20Apps-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20%26%20Workflows-666666?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Calligraphy%20Artist-999999?style=for-the-badge" />
 
-  <br /><br />
+<br /><br />
 
   <a href="https://alfizilham.my.id">
     <img src="https://img.shields.io/badge/Portfolio-alfizilham.my.id-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
@@ -47,62 +47,6 @@
 </ul>
 
 </div>
-
-<br />
-
-## 🚀 Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="70%">
-      <b>🤖 <a href="https://github.com/alfzilham/AlfizIlham-Portfolio">AlfizIlham-Portfolio</a></b><br/>
-      <sub>Bilingual portfolio site with a built-in AI chatbot powered by semantic RAG (pgvector + OpenRouter embeddings).</sub>
-    </td>
-    <td width="30%" align="right" valign="middle">
-      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <tr>
-    <td width="70%">
-      <b>🔄 <a href="https://github.com/alfzilham/FlowGram">FlowGram</a></b><br/>
-      <sub>Visual, node-based workflow builder with a drag-and-drop infinite canvas and Neon PostgreSQL cloud sync.</sub>
-    </td>
-    <td width="30%" align="right" valign="middle">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hono-000000?style=flat-square"/>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <tr>
-    <td width="70%">
-      <b>📈 <a href="https://github.com/alfzilham/PersonalHabitTracker">PersonalHabitTracker</a></b><br/>
-      <sub>All-in-one productivity tracker with an in-app AI assistant powered by the OpenRouter API.</sub>
-    </td>
-    <td width="30%" align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NeonDB-000000?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <tr>
-    <td width="70%">
-      <b>📲 WhatsApp AI Message Filter</b><br/>
-      <sub>Webhook-triggered filtering system built with n8n, WAHA, and OpenRouter vision AI analysis.</sub>
-    </td>
-    <td width="30%" align="right" valign="middle">
-      <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WAHA-000000?style=flat-square&logo=whatsapp&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 <br />
 
@@ -209,3 +153,56 @@
 <div align="center">
   <sub>💡 Currently exploring: AI Agentic Tools · MCP Workflows · Retrieval-Augmented Generation</sub>
 </div>
+
+<br />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfzilham/alfzilham/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfzilham/alfzilham/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alfzilham/alfzilham/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+## 📊 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfzilham&theme=github_dark" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfzilham&theme=github_dark" width="48%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfzilham&theme=github_dark" width="48%" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfzilham&theme=github_dark" width="48%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfzilham&theme=github_dark&utcOffset=7" width="48%" alt="Productive Time" />
+</div>
+
+<br />
+
+## 🚀 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Currently exploring AI-integrated backend systems, agentic workflows, and retrieval-augmented generation (RAG) with pgvector. I enjoy turning ideas into working products, automating repetitive processes with n8n, and refining my craft in both code and calligraphy.
+      </p>
+      <ul>
+        <li>🌍 Based in Aceh Besar, Indonesia</li>
+        <li>🤖 Building AI-integrated apps and automation pipelines</li>
+        <li>📬 You can reach me at <a href="mailto:alfizilham@gmail.com">alfizilham@gmail.com</a></li>
+        <li>🧠 Currently learning advanced RAG architectures and MCP workflows</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="./assets/videos/about-me.mp4" width="100%" alt="About Me" />
+    </td>
+  </tr>
+</table>
