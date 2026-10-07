@@ -202,7 +202,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="./assets/videos/about-me.mp4" width="100%" alt="About Me" />
+      <img src="./assets/images/about-me.gif" width="100%" alt="About Me" />
     </td>
   </tr>
 </table>
