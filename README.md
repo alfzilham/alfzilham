@@ -33,19 +33,42 @@
 
 ## 👨‍💻 About Me
 
-<div align="left">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p><b>Building AI-integrated core workflows, not AI bolted on afterward.</b></p>
+      <p>
+        I'm Alfiz Ilham — a Fullstack Developer focused on AI-integrated apps, and a Computer Engineering student at Universitas Syiah Kuala. Instead of adding AI as a feature at the end, I embed it directly into backend logic and automation pipelines — from n8n workflows to custom RAG architectures with pgvector.
+      </p>
+      <ul>
+        <li>🌍 Based in Aceh Besar, Indonesia</li>
+        <li>🤖 Building AI-integrated apps and automation pipelines</li>
+        <li>📬 You can reach me at <a href="mailto:alfizilham@gmail.com">alfizilham@gmail.com</a></li>
+        <li>🧠 Currently learning advanced RAG architectures and MCP workflows</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="./assets/images/about-me.gif" width="100%" alt="About Me" />
+    </td>
+  </tr>
+</table>
 
-<p><b>Building AI-integrated core workflows, not AI bolted on afterward.</b></p>
+<br />
 
-<p>I'm Alfiz Ilham — a Fullstack Developer focused on AI-integrated apps, and a Computer Engineering student at Universitas Syiah Kuala. Instead of adding AI as a feature at the end, I embed it directly into backend logic and automation pipelines — from n8n workflows to custom RAG architectures with pgvector.</p>
+## 📊 Profile Summary
 
-<ul>
-  <li>🎓 <b>Education:</b> B.S. Computer Engineering, Universitas Syiah Kuala</li>
-  <li>💻 <b>Current Role:</b> Freelance Fullstack Developer (AI-Integrated Apps)</li>
-  <li>✍️ <b>Also:</b> Freelance Calligrapher (Naskh script & Mushaf illumination, 500+ commissions)</li>
-  <li>⚡ <b>Core Focus:</b> Web Systems, AI Workflows & Automation</li>
-</ul>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfzilham&theme=github_dark" alt="Profile Details" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfzilham&theme=github_dark" width="48%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfzilham&theme=github_dark" width="48%" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfzilham&theme=github_dark" width="48%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfzilham&theme=github_dark&utcOffset=7" width="48%" alt="Productive Time" />
 </div>
 
 <br />
@@ -165,44 +188,3 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alfzilham/alfzilham/output/github-snake.svg" />
   </picture>
 </div>
-
-<br />
-
-## 📊 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfzilham&theme=github_dark" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfzilham&theme=github_dark" width="48%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfzilham&theme=github_dark" width="48%" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfzilham&theme=github_dark" width="48%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfzilham&theme=github_dark&utcOffset=7" width="48%" alt="Productive Time" />
-</div>
-
-<br />
-
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        Currently exploring AI-integrated backend systems, agentic workflows, and retrieval-augmented generation (RAG) with pgvector. I enjoy turning ideas into working products, automating repetitive processes with n8n, and refining my craft in both code and calligraphy.
-      </p>
-      <ul>
-        <li>🌍 Based in Aceh Besar, Indonesia</li>
-        <li>🤖 Building AI-integrated apps and automation pipelines</li>
-        <li>📬 You can reach me at <a href="mailto:alfizilham@gmail.com">alfizilham@gmail.com</a></li>
-        <li>🧠 Currently learning advanced RAG architectures and MCP workflows</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="./assets/images/about-me.gif" width="100%" alt="About Me" />
-    </td>
-  </tr>
-</table>
