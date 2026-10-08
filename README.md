@@ -38,7 +38,7 @@
     <td width="60%" valign="top">
       <p><b>Building AI-integrated core workflows, not AI bolted on afterward.</b></p>
       <p>
-        I'm Alfiz Ilham — a Fullstack Developer focused on AI-integrated apps, and a Computer Engineering student at Universitas Syiah Kuala. Instead of adding AI as a feature at the end, I embed it directly into backend logic and automation pipelines — from n8n workflows to custom RAG architectures with pgvector.
+        My name is Alfiz Ilham. I'm Fullstack Developer focused on AI-integrated apps, and a Computer Engineering student at Universitas Syiah Kuala. Instead of adding AI as a feature at the end, I embed it directly into backend logic and automation pipelines from n8n workflows to custom RAG architectures with pgvector.
       </p>
       <ul>
         <li>🌍 Based in Aceh Besar, Indonesia</li>
@@ -148,7 +148,7 @@
 <img src="./assets/icons/n8n.svg" width="40" title="n8n" />
 </p>
 
-<p><sub><b>MCP</b> · <b>Amazon Bedrock</b> · <b>Vertex AI</b> — not available as monochrome icons, shown as badges below</sub></p>
+<p><sub><b>MCP</b> · <b>Amazon Bedrock</b> · <b>Vertex AI</b> - not available as monochrome icons, shown as badges below</sub></p>
 
 <p>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
@@ -164,7 +164,7 @@
 <img src="./assets/icons/scratch.svg" width="40" title="Scratch" />
 </p>
 
-<p><sub><b>Adobe Photoshop</b> · <b>Adobe Lightroom</b> · <b>Canva</b> · <b>CalliPro</b> — not available as monochrome icons, shown as badges below</sub></p>
+<p><sub><b>Adobe Photoshop</b> · <b>Adobe Lightroom</b> · <b>Canva</b> · <b>CalliPro</b> - not available as monochrome icons, shown as badges below</sub></p>
 
 <p>
   <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square" />
