@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://alfizilham.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vcenter=true&width=800&lines=Welcome+to+Alfiz+Ilham's+GitHub;Fullstack+Developer+%E2%80%94+AI-Integrated+Apps;Building+AI-Powered+Workflows+%26+Automation;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6A1A&center=true&vcenter=true&width=800&lines=Welcome+to+Alfiz+Ilham's+GitHub;Fullstack+Developer+%E2%80%94+AI-Integrated+Apps;Building+AI-Powered+Workflows+%26+Automation;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+PHP" alt="Typing SVG" />
   </a>
 
   <br />
@@ -10,21 +10,21 @@
 
 <br /><br />
 
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI--Integrated%20Apps-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20%26%20Workflows-666666?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Calligraphy%20Artist-999999?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-6B230B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Integrated%20Apps-D4491A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation%20%26%20Workflows-FF6A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Calligraphy%20Artist-FF8A3D?style=for-the-badge" />
 
 <br /><br />
 
   <a href="https://alfizilham.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-alfizilham.my.id-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-alfizilham.my.id-FF6A1A?style=for-the-badge&labelColor=161616&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/alfizilham">
-    <img src="https://img.shields.io/badge/LinkedIn-Alfiz__Ilham-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alfiz__Ilham-FF6A1A?style=for-the-badge&labelColor=161616&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alfizilham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alfizilham%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-alfizilham%40gmail.com-FF6A1A?style=for-the-badge&labelColor=161616&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
